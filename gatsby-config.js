@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: ``,
-    description: `Arenzha Media Teknologi merupakan perusahaan yang bergerak di bidang teknologi informasi. Kami sebagai software developer dengan fitur aplikasi berupa ERP menyediakan jasa aplikasi berbasis web, mobile, maupn hybrid sesuai dengan alur dan kebutuhan perusahaan klien kami yang beragam`,
-    author: `@arenzhamediateknologi`,
-    siteUrl: `https://arenzha.com/`,
+    description: `Aplikasi portofolio`,
+    author: `@ripain`,
+    siteUrl: `https://rifanhidayat.com/`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -28,7 +28,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/arenzha-logo-icon.jpg`, // This path is relative to the root of the site.
+        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-postcss`,
